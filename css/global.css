@@ -23,4 +23,10 @@ img {
 }
 
 .subtitulo {
+  font-size: 8rem;
+  word-break: break-all;
+  line-height: 1;
+  text-transform: uppercase;
+  max-width: 5ch;
+  /*4 caracter zero*/
 }
