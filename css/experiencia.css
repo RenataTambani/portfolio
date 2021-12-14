@@ -82,6 +82,10 @@
   padding: 5px 10px;
 }
 
+.empresa-habilidades :hover {
+  background-color: darkgrey;
+}
+
 @media (max-width: 800px) {
   .experiencia {
     grid-template-columns: 1fr;
